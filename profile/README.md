@@ -1,7 +1,5 @@
 <img width="1512" alt="banner" src="https://github.com/insculpt/.github/blob/main/assets/banner.png?raw=true">
 
-<br>
-
 ## Insculpt
 ### Sculpt your ideas into apps.
 #### Coming Soon...
