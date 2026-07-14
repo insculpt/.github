@@ -1,4 +1,4 @@
-<img width="1512" alt="banner" src="https://github.com/insculpt/.github/blob/main/assets/banner.png?raw=true">
+<img width="1512" alt="banner" src="https://github.com/insculpt/.github/blob/main/banner.png?raw=true">
 
 ## Insculpt | Sculpt your ideas into apps.
 ### Coming Soon...
